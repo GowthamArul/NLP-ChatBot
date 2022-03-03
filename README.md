@@ -1,4 +1,4 @@
-# NPL-ChatBot
+# NLP-ChatBot
 
 ## Required Libraries
 
